@@ -1,7 +1,13 @@
-# BlueSCSI
+# BlackSCSI
 :toc: macro
 
-BlueSCSI & ArdSCSino are hardware that reproduces SCSI devices (hard disks) with an Arduino STM32F103C (aka Blue Pill.)
+BlackSCSI & ArdSCSino are hardware that reproduces SCSI devices (hard disks) with an Arduino STM32F103C (aka Blue Pill.)
+
+`BlackSCSI` seeks to add the following on top of BlueSCSI:
+
+* NeXT Black Hardware specific functionality in hw and fw
+* doing away with the daughterboard
+
 
 `BlueSCSI` created by https://github.com/erichelgeson[erichelgeson] is a fork of `ArdSCSino-stm32` which adds:
 
@@ -19,31 +25,17 @@ BlueSCSI & ArdSCSino are hardware that reproduces SCSI devices (hard disks) with
 image::docs/buynow.png[link=https://scsi.blue, 150]
 image::docs/discordbanner.png[link=https://discord.gg/GKcvtgU7P9, 150]
 
-Join us in #bluescsi on https://discord.gg/GKcvtgU7P9[Discord] or open an issue on this repo.
-
 toc::[]
 
 ## Compatibility
 
-If your computer is not listed below - it may be compatible but there is no guarantee it will work. This device is designed and tested to work with pre-PowerPC Macs.
-
-### Compatible
-
-https://github.com/erichelgeson/BlueSCSI/wiki/Supported-Systems[Supported-Systems]
-
-## Performance
-
-https://github.com/erichelgeson/BlueSCSI/wiki/Performance[Performance]
+TBD
 
 ## Assembly
 
 ++++
 See <a href="docs/assembly.md">docs/assembly.md</a>
 ++++
-
-## Usage
-
-https://github.com/erichelgeson/BlueSCSI/wiki/Usage[Usage]
 
 ### Termination
 
@@ -84,4 +76,4 @@ https://github.com/erichelgeson/BlueSCSI/wiki/Flashing[Flashing]
 https://support.jlcpcb.com/article/44-how-to-export-kicad-pcb-to-gerber-files
 
 
-BlueSCSI(TM) - Eric Helgeson - All rights reserved.
+
