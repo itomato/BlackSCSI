@@ -22,10 +22,6 @@ BlackSCSI & ArdSCSino are hardware that reproduces SCSI devices (hard disks) wit
 
 `ArdSCSino` created by https://twitter.com/h_koma2[Tambo (TNB Seisakusho)]
 
-image::docs/buynow.png[link=https://scsi.blue, 150]
-image::docs/discordbanner.png[link=https://discord.gg/GKcvtgU7P9, 150]
-
-toc::[]
 
 ## Compatibility
 
